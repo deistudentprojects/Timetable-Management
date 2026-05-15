@@ -1,0 +1,9 @@
+export * as teacherService from "./teachers";
+export * as courseService from "./courses";
+export * as roomService from "./rooms";
+export * as timetableService from "./timetables";
+export * as scheduleService from "./schedules";
+export * as curriculumService from "./curriculums";
+export * as settingsService from "./settings";
+export * as tempScheduleService from "./tempSchedules";
+export * as conflictService from "./conflicts";
